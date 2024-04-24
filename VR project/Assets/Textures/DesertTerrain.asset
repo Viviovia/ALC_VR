@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c509dbaa7b6f416409e3195321a2187e, type: 3}
+  m_Name: DesertTerrain
+  m_EditorClassIdentifier: 
+  PaletteLayers:
+  - {fileID: 8574412962073106934, guid: 46cd4b65e8ec7c745920f9c7a9e8bd2c, type: 2}
+  - {fileID: 8574412962073106934, guid: 90e8cbcb5ad76c8439a4ff7e0fe69f6c, type: 2}
+  - {fileID: 8574412962073106934, guid: 9155e94ee610ee843b339c0e5d420dec, type: 2}
+  - {fileID: 8574412962073106934, guid: ee9af1a848129a649bff7886014485fd, type: 2}
+  - {fileID: 8574412962073106934, guid: 1fbf733aa0ae07c4a825f5209256c28a, type: 2}
+  - {fileID: 8574412962073106934, guid: 0dd91f03e407a8546bb84bc4884c6043, type: 2}
+  - {fileID: 8574412962073106934, guid: bfdefbeeec2ab984a9eae3a843f97e4b, type: 2}
+  - {fileID: 8574412962073106934, guid: eaac7f1c9e0293e498a34e5bd424618a, type: 2}
